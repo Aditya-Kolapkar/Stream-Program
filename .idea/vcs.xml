@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Loan-Management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aditya/src/Abstraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aditya/src/Arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-file-upload-download-rest-api-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-rest-api-warehouse" vcs="Git" />
+  </component>
+</project>
